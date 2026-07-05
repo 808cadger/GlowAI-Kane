@@ -1,0 +1,14 @@
+{
+  "name": "GlowAI",
+  "short_name": "GlowAI",
+  "description": "Beauty super app for skin analysis, try-on previews, look planning, and stack comparison.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#1f1728",
+  "background_color": "#fbf3ef",
+  "icons": [
+    { "src": "./icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
